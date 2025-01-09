@@ -20,12 +20,12 @@ This repository provides a Python script to calculate the **Call Quality Score**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/operata/examplehub/callQualityScore/call-quality-score.git
+   git clone https://github.com/operata/examplehub.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd call-quality-score
+   cd callQualityScore
    ```
 
 ### Usage
@@ -98,5 +98,3 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-For any issues or questions, feel free to open an [issue](https://github.com/your-username/call-quality-score/issues) on GitHub.
