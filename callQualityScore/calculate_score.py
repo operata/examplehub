@@ -20,7 +20,7 @@ def calculate_call_quality_score(file_path):
     print(f"Call Quality Score: {call_quality_score:.2f}")
 
 # Path to the input JSON file
-file_path = "input.json"
+file_path = "operata_event.json"
 
 # Calculate and print the Call Quality Score
 calculate_call_quality_score(file_path)
