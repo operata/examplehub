@@ -25,7 +25,7 @@ This repository provides a Python script to calculate the **Call Quality Score**
 
 2. Navigate to the project directory:
    ```bash
-   cd callQualityScore
+   cd examplehub/callQualityScore
    ```
 
 ### Usage
